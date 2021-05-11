@@ -1,0 +1,12 @@
+com\github\paulocesar\forum\Controller\repository\CursoRepository.class
+com\github\paulocesar\forum\StatusTopico.class
+com\github\paulocesar\forum\Curso.class
+com\github\paulocesar\forum\Controller\helloWorld.class
+com\github\paulocesar\forum\Resposta.class
+com\github\paulocesar\forum\Topico.class
+com\github\paulocesar\forum\Controller\DTO\TopicoDTO.class
+com\github\paulocesar\forum\ForumApplication.class
+com\github\paulocesar\forum\Controller\DTO\TopicoForm.class
+com\github\paulocesar\forum\repository\TopicoRepository.class
+com\github\paulocesar\forum\Usuario.class
+com\github\paulocesar\forum\Controller\TopicosController.class
